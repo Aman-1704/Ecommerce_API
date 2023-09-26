@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce_api",
+  "version": "1.0.0",
+  "description": "an API for an ecommerce platform admin to manage product inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ecommerce",
+    "API"
+  ],
+  "author": "Aman Singh",
+  "license": "ISC"
+}
